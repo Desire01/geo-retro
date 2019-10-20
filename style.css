@@ -48,7 +48,8 @@ em {
 	border-radius: 0.3em;
 	border: 1px solid #066;
 	font-size: 1.2em;
-	font-weight: bold;
+    font-weight: bold;
+    color: #fff;
 	text-shadow: 0px 1px 0px #067;
 }
 
@@ -278,10 +279,12 @@ h1 {
 
 /* Page Footer */
 .page-footer {
-    border-top: 1px solid #D7CCC8;
+    border-top: 1px solid #069;
     padding: 0.5em 0;
     text-align: center;
     font-size: 1.3em;
+    background: linear-gradient(to right, #069, #099);
+    color: #fff;
 }
 
 .page-footer-link {
