@@ -7,8 +7,8 @@ b, u, i, center,
 dl, dt, dd,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, embed, 
-figure, figcaption, footer, header, hgroup, 
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
 menu, nav, output, ruby, section, summary,
 time, mark, audio, video {
 	margin: 0;
@@ -118,7 +118,7 @@ h1 {
     flex-wrap: wrap;
     max-width: 50%;
     margin-left: auto;
-    margin-right: auto;   
+    margin-right: auto;
     padding: 0.3em;
     text-align: center;
 }
@@ -160,7 +160,7 @@ h1 {
     max-width: 50%;
     margin-left: auto;
     margin-right: auto;
-    background-color: #A1887F;
+    background-color: #069;
     border-radius: 0.3em;
     box-shadow: 0 5px 5px #808080;
 }
@@ -193,7 +193,7 @@ h1 {
     text-align: center;
 }
 
-.restart-button { 
+.restart-button {
 	padding: 0.7em 1.4em;
 }
 
@@ -297,7 +297,7 @@ h1 {
 
 .page-footer-link:active {
     text-decoration: none;
-}   
+}
 
 .page-footer-link:focus {
     outline: #A1887F auto 5px;
